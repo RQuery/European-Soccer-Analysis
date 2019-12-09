@@ -41,6 +41,6 @@ We recommend that you view the notebook on your local machine, or on Jupyter's [
 
 
 <!-- Markdown links -->
-[nb-viewer]: https://nbviewer.jupyter.org/github/prime025/European-Football-Analysis/blob/master/European%20Football%20Analysis.ipynb
+[nb-viewer]: https://nbviewer.jupyter.org/github/RQuery/European-Soccer-Analysis/blob/master/European%20Football%20Analysis.ipynb
 [kaggle-dataset]: https://www.kaggle.com/hugomathien/soccer
 
